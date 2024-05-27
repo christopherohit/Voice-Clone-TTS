@@ -1,0 +1,6 @@
+Models/
+asset/
+Utils/ASR/epoch_00080.pth
+__pycache__
+src/LibriTTS/g_00935000
+test_syntax.ipynb
